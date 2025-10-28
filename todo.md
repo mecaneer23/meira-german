@@ -1,3 +1,3 @@
 - update description in _config.yml
 - add images/titles/descriptions
-- add Meira's social profiles
+- add disclaimer about images (2 languages)
