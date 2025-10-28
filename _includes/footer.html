@@ -4,6 +4,8 @@
       <section>
         <h2>{{ site.title }}</h2>
         <p>{{ site.description }}</p>
+        <h4><a href="mailto:{{ user.email }}">{{ user.email }}</a></h4>
+        <h4>{{ user.phone }}</h4>
       </section>
       {%- include social.html -%}
       <p class="copyright">

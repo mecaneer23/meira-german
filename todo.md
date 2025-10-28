@@ -1,4 +1,3 @@
 - update description in _config.yml
 - add images/titles/descriptions
 - add Meira's social profiles
-- add phone number and email address
