@@ -8,7 +8,9 @@
         <h4>{{ site.user.phone }}</h4>
         <p>{{ site.disclaimer }}</p>
       </section>
-      <!-- {%- include social.html -%} -->
+      {% comment %}
+      {%- include social.html -%}
+      {% endcomment %}
       <p class="copyright">
         &copy; <a href="mailto:{{ site.email }}">{{ site.author }}</a>. Design: <a href="http://html5up.net">HTML5 UP</a>.
       </p>
